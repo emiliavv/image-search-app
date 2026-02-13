@@ -1,5 +1,8 @@
+.idea
+embeddings.pkl
 secrets/
 .DS_Store
+clip-*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
